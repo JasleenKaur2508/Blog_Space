@@ -315,9 +315,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Jasleen Kaur**
 - 🐙 GitHub: [@JasleenKaur2508](https://github.com/JasleenKaur2508)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🌐 Website: [your-website.com](https://your-website.com)
+- 💼 LinkedIn: [jasleen-kaur-9342b5358](https://www.linkedin.com/in/jasleen-kaur-9342b5358/)
+- 📧 Email: [hiyajasleen@gmail.com](mailto:hiyajasleen@gmail.com)
 
 ---
 
