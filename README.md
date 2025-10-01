@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title
 SCM File Work
 
@@ -18,3 +19,6 @@ A brief overview of your project, its purpose, and goals.
 1. Run the project locally:  
    `npm start`
 2. Access the project at `http://localhost:3000` (or the appropriate URL if different).
+=======
+# Blog_Space
+>>>>>>> 92f044055d49d0e2988d442d350f0249ace25b6b
